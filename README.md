@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros** ao usar _HTML_ , _CSS_e_JAVASCRIPT.
+Este projeto é um tutorial que ensina a como criar o site da **NIKE** ao usar _HTML_ , _CSS_e_JAVASCRIPT.
 
 ## 🚀 Tecnologias
 
